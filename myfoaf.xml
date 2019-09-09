@@ -14,6 +14,8 @@
 <foaf:givenname>Jonathan</foaf:givenname>
 <foaf:family_name>Zwaig</foaf:family_name>
 <foaf:nick>Schweedz</foaf:nick>
+<foaf:gender>Male</foaf:gender>
+<foaf:age>31</foaf:age>
 <foaf:mbox_sha1sum>093abbb6a8e9bf22ec92ac9c2fcb58a3a1cc1f50</foaf:mbox_sha1sum>
 <foaf:schoolHomepage rdf:resource="www.umbc.edu"/>
 <foaf:knows>
